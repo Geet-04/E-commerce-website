@@ -1,0 +1,11 @@
+))mongo db adress
+))port lill
+))
+0)run it client servers
+# 👇️ with NPM
+npm install react-icons
+
+# ----------------------------------------------
+
+# 👇️ with YARN
+yarn add react-icons
